@@ -1,0 +1,11 @@
+/*Josh Proper 1234567 */ 
+body{
+    font : normal normal normal 12px/1.5 Verdana, Arial, Helvetica;
+    height : 100vh;
+    width : 100vw;
+    background-color: hsla(304, 100%, 47%, 0.671);
+}
+h2{
+    font-size: 2rem;
+    color : #fc9;
+}
